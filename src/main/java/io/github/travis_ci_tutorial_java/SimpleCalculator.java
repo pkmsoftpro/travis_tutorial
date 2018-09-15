@@ -13,6 +13,7 @@ public class SimpleCalculator {
 	public int div(int a, int b) {
 		return a / b;
 	}
+    public int mulTwo(int a) { return a*2; }
 	public static final void main(String[] args) {
 		System.out.println("Hello world?");
 	}
